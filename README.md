@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project seeks toanalyse transactional sales data from Bright Coffee Shop to identify key sales patterns,
+This project seeks to analyze transactional sales data from Bright Coffee Shop to identify key sales patterns,
 and to  provide actionable recommendations to help improve product performance, to increase sales and revenue.
 
 🎯 Project Objectives
@@ -64,5 +64,24 @@ SQL                   	Data cleaning, calculations and analysis
 Microsoft Excel	        Pivot tables and data analysis
 Power BI / Tableau / Google Sheets	Data visualisation
 Miro	                 Data flow and architecture diagram
-Microsoft PowerPoint	 Presentation of findings
-GitHub	               Project version control and submission
+
+📊 Key Analysis Areas  
+
+The analysis focuses on several important business questions.  
+
+Product Performance  
+Which products generate the highest sales?  
+Which product categories perform best?  
+Which product types have the highest transaction volumes?  
+Time-Based Analysis  
+Which months generate the highest sales?  
+Which days of the week have the most transactions?  
+What times of day have the highest transaction activity?  
+Which time buckets generate the most revenue?  
+Store Analysis  
+Which store locations generate the most sales?  
+How does sales performance differ between locations?  
+Transaction Analysis  
+What is the average transaction value?  
+What is the average transaction quantity?  
+Which transactions contribute most to total revenue?  
